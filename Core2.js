@@ -8,7 +8,7 @@ function keydown(event) {
     switch (event.keyCode) {
     }
 
-if (event.keyCode == 49) { //Backward Double Split Press "1" Key
+if (event.keyCode == 80) { //Backward Double Split Press "1" Key
     split();
 
 }
